@@ -1,11 +1,12 @@
 # wedding-invite
-I created Wedding Invitation Webite for my friend
-You can clone this repo and use it for your marriage invitation making
+I created Wedding Invitation Webite for my friend.
+
+You can clone this repo and use it for marriage invitation site making.
 
 #Technologies used
 HTML, JS, CSS, JQuery
 
-Folder Stracture:
+#Folder Stracture
 index.html - main html file to render on browser
 css/-      - all styles are in this folder
 img/-      - Personal images used in website
@@ -19,6 +20,9 @@ https://kiranwedspravalika.neocities.org/
 
 #Author Profile
 Name: Kranthi Kumar
+
 Mob: +91-9032789873
+
 Email: kranthikumar.iitkgp@gmail.com
+
 Linkedin Profile: https://www.linkedin.com/in/kranthi-kumar-9296914b/
